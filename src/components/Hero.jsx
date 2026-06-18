@@ -25,7 +25,7 @@ export default function Hero() {
           Me contacter
         </a>
         <a
-          href="/cv.pdf"
+          href="./files/CV_Rasamoelina.pdf"
           download
           className="border border-blue-600 text-blue-600 px-6 py-3 rounded-lg font-medium hover:bg-blue-50 transition"
         >
