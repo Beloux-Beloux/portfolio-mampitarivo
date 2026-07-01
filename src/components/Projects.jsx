@@ -8,12 +8,12 @@ const projects = [
     demo: '#',
   },
   {
-    title: 'E-commerce Laravel',
-    stack: 'PHP • Laravel • MySQL • Bootstrap',
+    title: "Gestion d'emploi du temps",
+    stack: 'ReactTS • TailwindCSS • ExpressJS • PostgreSQL',
     description:
-      'Plateforme e-commerce avec panier, authentification, tableau de bord admin et paiement simulé.',
-    github: '#',
-    demo: '#',
+      'Application web de planification interactive avec gestion des professeurs, salles, niveaux, groupes, contraintes d\'horaires et export PDF.',
+    github: 'https://github.com/Beloux-Beloux/gestion-emploi-du-temps.git',
+    demo: 'https://gestion-emploi-du-temps-i3xq3uqs0.vercel.app',
   },
   {
     title: 'Application météo',
