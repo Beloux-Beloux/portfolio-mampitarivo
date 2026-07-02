@@ -13,7 +13,7 @@ const projects = [
     description:
       'Application web de planification interactive avec gestion des professeurs, salles, niveaux, groupes, contraintes d\'horaires et export PDF.',
     github: 'https://github.com/Beloux-Beloux/gestion-emploi-du-temps.git',
-    demo: 'https://gestion-emploi-du-temps-i3xq3uqs0.vercel.app',
+    demo: 'https://gestion-emploi-du-temps-eta.vercel.app',
   },
   {
     title: 'Application météo',
