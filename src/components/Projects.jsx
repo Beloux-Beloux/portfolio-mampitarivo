@@ -1,11 +1,11 @@
 const projects = [
   {
-    title: 'Gestion de bibliothèque',
-    stack: 'Java • Spring Boot • React • MySQL',
+    title: 'Gestion hôtelière multi-tenant',
+    stack: 'PHP • Laravel • NextTS • MySQL',
     description:
-      'Application web de gestion des livres, emprunts et membres avec API REST et interface React.',
-    github: '#',
-    demo: '#',
+      'Application web de gestion hôtelière multi-tenant avec gestion des hôtels, chambres, réservations, clients et tâches ménagères.',
+    github: 'https://github.com/Beloux-Beloux/hotel-project.git',
+    demo: 'https://hotel-web-vert.vercel.app/',
   },
   {
     title: "Gestion d'emploi du temps",
