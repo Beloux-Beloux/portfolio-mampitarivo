@@ -10,7 +10,7 @@ export default function About() {
           Bases de Données, je suis passionné par le développement
           d'applications web et mobiles. Je maîtrise plusieurs langages et
           frameworks (Java/Spring, React, PHP/Laravel, Python, C#) ainsi que
-          les bases de données relationnelles (MySQL, PostgreSQL).
+          les bases de données relationnelles (MySQL, PostgreSQL, Oracle, SQLite).
         </p>
         <p className="text-lg text-gray-700 text-center leading-relaxed">
           Actuellement basé à Fianarantsoa, Madagascar, je suis ouvert aux

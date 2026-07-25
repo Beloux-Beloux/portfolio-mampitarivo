@@ -16,12 +16,12 @@ const projects = [
     demo: 'https://gestion-emploi-du-temps-eta.vercel.app',
   },
   {
-    title: 'Application météo',
-    stack: 'React • OpenWeather API • Tailwind CSS',
+    title: 'Gestion de restaurant',
+    stack: 'Java • Jakarta Server Pages • Maven • PostgreSQL',
     description:
-      'Application météo temps réel avec recherche par ville, prévisions sur 5 jours et design responsive.',
-    github: '#',
-    demo: '#',
+      'Application de gestion de restaurant avec gestion des plats, commandes, reservations et tables.',
+    github: 'https://github.com/Beloux-Beloux/restaurant_project_jsp.git',
+    demo: 'https://restaurant-app-hhc3.onrender.com',
   },
 ]
 

@@ -10,6 +10,7 @@ const skills = [
   { name: 'Node.js', category: 'Frameworks' },
   { name: 'MySQL', category: 'Bases de données' },
   { name: 'PostgreSQL', category: 'Bases de données' },
+  { name: 'Oracle', category: 'Bases de données' },
   { name: 'Git / GitHub', category: 'Outils' },
   { name: 'REST API', category: 'Outils' },
   { name: 'Tailwind CSS', category: 'Frameworks' },
